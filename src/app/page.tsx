@@ -7,7 +7,7 @@ export default function Home() {
       <Navbar />
       <h1>Home</h1>
       <div className={style["about"]}>
-        <p>Hi! My name is James and I'm currently a 3rd year Computer Engineer.</p>
+        <p>Hi! My name is James and I&apos;m currently a 3rd year Computer Engineer.</p>
         <p>Please make a merge conflict for me!</p>
       </div>
     </main>
